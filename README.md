@@ -1,0 +1,2 @@
+# dataclass
+Data analytic class
